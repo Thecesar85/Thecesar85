@@ -1,16 +1,10 @@
 <div align="center">
 
-<div style="overflow: hidden; white-space: nowrap;">
-  <span style="display: inline-block; padding-left: 100%; animation: marquee 10s linear infinite;">
-     Tu texto aquí...
-  </span>
-</div>
-<style>
-  @keyframes marquee {
-    0% { transform: translateX(0); }
-    100% { transform: translateX(-100%); }
-  }
-</style>
+<b style="font-family: 'Fira Code', monospace; color: #58A6FF; font-size: 28px;">Augusto Salazar Montes</b>
+<br>
+<marquee behavior="scroll" direction="left" scrollamount="6" style="font-family: 'Fira Code', monospace; color: #58A6FF; font-size: 20px;">
+  ICT Specialist &nbsp;│&nbsp; Mechatronics Engineer &nbsp;│&nbsp; Embedded Validation &nbsp;│&nbsp; Test Automation &nbsp;│&nbsp; Trilingual (ES/EN/FR)
+</marquee>
 
 <br>
 
@@ -96,14 +90,14 @@ Mechatronics Engineer with **4+ years** of experience in industrial environments
 ### 🏢 Application Engineer — Seica, Inc.
 `Oct 2022 – Jan 2026` · Querétaro, MX
 
-> Designed and executed automated test campaigns for automotive ECUs. Monitored CAN/CAN-FD communication, developed Python%KPI reporting scripts, and performed root cause analysis with hardware debug tools. Managed SQL databases & Git repositoriesBrepositories for full traceability. Collaborated with teams in Mexico, US, and Italy.
+> Designed and executed automated test campaigns for automotive ECUs. Monitored CAN/CAN-FD communication, developed Python KPI reporting scripts, and performed root cause analysis with hardware debug tools. Managed SQL databases & Git repositories for full traceability. Collaborated with teams in Mexico, US, and Italy.
 
 `Python` `LabVIEW` `TestStand` `CANoe` `CANalyzer` `SQL` `Git` `Supernova`
 
 ---
 
 ### 🏢 Applications Engineer — AB Test Solutions
-`Jul 2022 – Oct 2022` · Monterrey, MXE
+`Jul 2022 – Oct 2022` · Monterrey, MX
 
 > Implemented data acquisition systems and LabVIEW automation frameworks for automotive manufacturing.
 
@@ -141,7 +135,7 @@ Mechatronics Engineer with **4+ years** of experience in industrial environments
 Python scripts (pandas, matplotlib, Tkinter) to auto-extract & visualize test logs → PDF reports  
 `Python` `pandas` `Tkinter`
 
-**Injector Test System**>  
+**Injector Test System**  
 Full embedded system: STM32, custom PCB, C firmware, MOSFET power stage, optocoupler isolation  
 `STM32` `C` `PCB`
 
@@ -161,7 +155,7 @@ Designed and installed a complete CCTV network; rehabilitated 16-year-old legacy
 🏥 **[MediSync](https://github.com/Thecesar85/MediSync)**  
 Unified Emergency Response & Hospital Coordination Platform
 
-🛡️ **[ao-bounty-control](https://github.com/Thecesar85/ao-bounty-control3)**  
+🛡️ **[ao-bounty-control](https://github.com/Thecesar85/ao-bounty-control)**  
 Control room for bounty PRs, issues & payout readiness
 
 💱 **[StellarBounty](https://github.com/Thecesar85/StellarBounty)**  
@@ -215,7 +209,7 @@ Work ledger — contributors & AI agents earn MRWK
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Thecesar85&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3DDC84&text_color=8B949E" width="460" alt="GitHub Stats">
-  <img src="https://github-readme-stats%vercel.app/api/top-langs/?username=Thecesar85&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" width="340" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thecesar85&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" width="340" alt="Top Languages">
 </p>
 
 ---
@@ -252,11 +246,4 @@ Work ledger — contributors & AI agents earn MRWK
 <a href="mailto:augustosm85@gmail.com">📧 augustosm85@gmail.com</a> &nbsp;·&nbsp;
 <a href="https://linkedin.com/in/augusto-salazar-montes">💼 LinkedIn</a> &nbsp;·&nbsp;
 <a href="https://github.com/Thecesar85/Thecesar85/blob/main/Resume_Augusto_Salazar.pdf">📄 Download CV</a>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Thecesar85&color=58A6FF&style=flat-square" alt="Profile views">
-
-<sub>Last update: September 2026 · Querétaro, México</sub>
-
 </div>
