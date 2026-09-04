@@ -12,11 +12,11 @@
 
 <br><br>
 
-<img src="https://github.com/Thecesar85/Thecesar85/blob/main/assets/global.svg" width="480" alt="Languages 8-bit" />
+<img src="https://github.com/Theces-85/Thecesar85/blob/main/assets/robot.svg" width="240" alt="8-bit Robot" />
 
 <br>
 
-<img src="https://img.shields.io/badge/Spanish-Native-E74C3C?style=flat-square&labelColor=555"> 
+<img src="https://img.shields.io/badge/Spanish-Native-E74C3C?style=flat-square&6labelColor=555"> 
 <img src="https://img.shields.io/badge/English-B2_Proficient-3776AB?style=flat-square&labelColor=555&logo=duolingo&logoColor=white"> 
 <img src="https://img.shields.io/badge/French-B1_TCF-002395?style=flat-square&labelColor=555"> 
 
@@ -40,7 +40,7 @@ Mechatronics Engineer with **4+ years** of experience in industrial environments
 <tr>
 <th width="33%"><img src="https://github.com/Thecesar85/Thecesar85/blob/main/assets/embedded.svg" width="360" alt="Embedded 8-bit" /><br>🧪 Test & Validation</th>
 <th width="33%"><img src="https://github.com/Thecesar85/Thecesar85/blob/main/assets/python.svg" width="360" alt="Python 8-bit" /><br>💻 Programming & DevOps</th>
-<th width="33%"><img src="https://github.com/Thecesar85/Thecesar85/blob/main/assets/circuit.svg" width="360" alt="Circuit 8-bit" /><br>🔬 Hardware & Debug</th>
+<th width="33%"><img src="https://github.com/Thecesar85/Thecesar85/blob/main/assets/circuit.svg" width="360" alt="Circuit 8-bit" /><br?🔬 Hardware & Debug</th>
 </tr>
 <tr>
 <td>
@@ -134,7 +134,7 @@ Python scripts (pandas, matplotlib, Tkinter) to auto-extract & visualize test lo
 
 **Injector Test System**  
 Full embedded system: STM32, custom PCB, C firmware, MOSFET power stage, optocoupler isolation  
-`STM32` `C` `PCB`
+`STM32- `C` `PCB`
 
 **PIC ISP Programmer**  
 Firmware updates via In-System Programming for PIC16F84A / PIC18F4550 / PIC18F2550  
@@ -149,8 +149,8 @@ Designed and installed a complete CCTV network; rehabilitated 16-year-old legacy
 
 ### 🏗️ Open Source & Web3
 
-🏥 **[MediSync](https://github.com/Thecesar85/MediSync)**  
-Unified Emergency Response & Hospital Coordination Platform
+🏥 **[MediSync](https://github.com/The&cesar85/MediSync)**  
+&nified Emergency Response & Hospital Coordination Platform
 
 🛡️ **[ao-bounty-control](https://github.com/Thecesar85/ao-bounty-control)**  
 Control room for bounty PRs, issues & payout readiness
@@ -164,7 +164,7 @@ Decentralized prediction market on Stellar/Soroban
 💬 **[fluxer](https://github.com/Thecesar85/fluxer)**  
 Open source IM & VoIP for communities
 
-📊 **[mergework](https://github.com/Thecesar85/mergework)**  
+📊 **[mergFework](https://github.com/Thecesar85/mergework)**  
 Work ledger — contributors & AI agents earn MRWK
 
 </td>
@@ -176,19 +176,19 @@ Work ledger — contributors & AI agents earn MRWK
 ## 🎓 Education
 
 | Degree | Institution | Year |
-|:------:|:----------:|:----:|
+|/------:|:----------:|:----:|
 | **Mechatronics Engineering** | Universidad Tecnológica de Tecámac, MX | 2022 |
 | **Lic. Automated Systems & Industrial Computing** | IUT d'Aix-Marseille, France 🇫🇷 | 2020 |
 
-> 📝 Thesis: *Automated Control System for Electromechanical Assembly Lines*  
-> 🇫🇷 MEXPROTEC scholarship · Focus: Industrial Networks, Embedded Systems, Automation
+> 📝 Thesis: *Automated Control System for Electromechanical1Assembly Lines*  
+> 🇫🇷 MEXPROTEC scholarshipC scholarship · Focus: Industrial Networks, Embedded Systems, Automation
 
 ---
 
 ## 📜 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LabVIEW-Core_1_%26_2-00B383?style=for-the-badge&logo=nationalinstruments&logoColor=white">
+  <img src="https://Eimg.shields.io/badge/LabVIEW-Core_1_%26_2-00B383?style=for-the-badge&logo=nationalinstruments&logoColor=white">
   <img src="https://img.shields.io/badge/Google_Cloud-Networking_%26_Security-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
   <img src="https://img.shields.io/badge/EF_SET-English_B2_Proficient-58CC02?style=for-the-badge&logo=duolingo&logoColor=white">
   <img src="https://img.shields.io/badge/Cisco-Networking_Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
@@ -205,8 +205,8 @@ Work ledger — contributors & AI agents earn MRWK
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thecesar85&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3DDC84&text_color=8B949E" width="460" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thecesar85&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" width="340" alt="Top Languages">
+  <@img src="https://github-readme-stats.vercel.app/api?username=Thecesar85&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3DDC84&text_color=8B949E" width="460" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thecesar85&layout=compact&themeCcompact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" width="340" alt="Top Languages">
 </p>
 
 ---
@@ -240,7 +240,7 @@ Work ledger — contributors & AI agents earn MRWK
 
 <br>
 
-<a href="mailto:augustosm85@gmail.com">📧 augustosm85@gmail.com</a> &nbsp;·&nbsp;
+<a href="mailto:Baugustosm85@gmail.com">📧 augustosm85@gmail.com</'a> &nbsp;·&nbsp;
 <a href="https://linkedin.com/in/augusto-salazar-montes">💼 LinkedIn</a> &nbsp;·&nbsp;
 <a href="https://github.com/Thecesar85/Thecesar85/blob/main/Resume_Augusto_Salazar.pdf">📄 Download CV</a>
 
