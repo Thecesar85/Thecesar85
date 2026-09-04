@@ -1,19 +1,24 @@
 <div align="center">
 
-# 👋 Hi, I'm Augusto Salazar Montes
-
-### Software Acceptance Test Engineer | Embedded Validation Specialist
-
-<a href="mailto:augustosm85@gmail.com"><img src="https://img.shields.io/badge/Email-augustosm85%40gmail.com-red?style=flat&logo=gmail&logoColor=white"></a>
-<a href="https://linkedin.com/in/augusto-salazar-montes"><img src="https://img.shields.io/badge/LinkedIn-augusto--salazar--montes-blue?style=flat&logo=linkedin&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Location-Quer%C3%A9taro%2C%20M%C3%A9xico-green?style=flat&logo=google-maps&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Languages-ES_(Native)_%7C_EN_(B2)_%7C_FR_(B1)-orange?style=flat&logo=googletranslate&logoColor=white"></a>
+<!-- Header with typing effect style -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Augusto+Salazar+Montes;ICT+Specialist+│+Mechatronics+Engineer;Embedded+Validation+│+Test+Automation;Trilingual+%28ES%2FEN%2FFR%29" alt="Typing SVG" />
 
 <br>
 
-<a href="https://github.com/Thecesar85/Thecesar85/blob/main/Resume_Augusto_Salazar.pdf">
-  <img src="https://img.shields.io/badge/%F0%9F%93%84_Download_Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
-</a>
+<a href="mailto:augustosm85@gmail.com"><img src="https://img.shields.io/badge/Email-augustosm85%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://linkedin.com/in/augusto-salazar-montes"><img src="https://img.shields.io/badge/LinkedIn-augusto--salazar--montes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/Thecesar85/Thecesar85/blob/main/Resume_Augusto_Salazar.pdf"><img src="https://img.shields.io/badge/Download_CV-PDF-4A90D9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Quer%C3%A9taro-M%C3%A9xico-2EA043?style=for-the-badge&logo=googlemaps&logoColor=white"></a>
+
+<br><br>
+
+<img src="https://github.com/Thecesar85/Thecesar85/blob/main/assets/global.svg" width="480" alt="Languages 8-bit" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Spanish-Native-E74C3C?style=flat-square&labelColor=555"> 
+<img src="https://img.shields.io/badge/English-B2_Proficient-3776AB?style=flat-square&labelColor=555&logo=duolingo&logoColor=white"> 
+<img src="https://img.shields.io/badge/French-B1_TCF-002395?style=flat-square&labelColor=555"> 
 
 </div>
 
@@ -21,221 +26,228 @@
 
 ## 🧠 About Me
 
-I'm a **Software Acceptance Test Engineer** with 4+ years of experience in embedded software validation, test automation, and system integration for the **automotive industry**. I design and execute black-box and white-box test campaigns, perform root cause analysis, and ensure quality compliance.
+Mechatronics Engineer with **4+ years** of experience in industrial environments. Specialized in **embedded software validation**, test automation, and IT infrastructure maintenance for the **automotive industry**. I design and execute black-box and white-box test campaigns, perform root cause analysis, and ensure quality compliance across international teams.
+
+<p align="center">
+<img src="https://github.com/Thecesar85/Thecesar85/blob/main/assets/testing.svg" width="440" alt="Testing 8-bit" />
+</p>
+
+---
+
+## 🛠️ Technical Arsenal
 
 <table>
 <tr>
-<td width="50%">
-  🧪 <b>Test & Validation</b><br>
-  <sub>Python · LabVIEW Core 1&2 · TestStand<br>CANoe · CANalyzer · CAN/CAN-FD<br>HIL/Bench Setups · CAPL (learning)</sub>
-</td>
-<td width="50%">
-  🔬 <b>Debugging & Tools</b><br>
-  <sub>Oscilloscopes · Logic Analyzers · Multimeters<br>TRACE32 · iSystem · UDS (ISO 14229)<br>UART · I2C · SPI · LIN (basic)</sub>
-</td>
+<th width="33%"><img src="https://github.com/Thecesar85/Thecesar85/blob/main/assets/embedded.svg" width="360" alt="Embedded 8-bit" /><br>🧪 Test & Validation</th>
+<th width="33%"><img src="https://github.com/Thecesar85/Thecesar85/blob/main/assets/python.svg" width="360" alt="Python 8-bit" /><br>💻 Programming & DevOps</th>
+<th width="33%"><img src="https://github.com/Thecesar85/Thecesar85/blob/main/assets/circuit.svg" width="360" alt="Circuit 8-bit" /><br>🔬 Hardware & Debug</th>
 </tr>
 <tr>
 <td>
-  💻 <b>Programming & DevOps</b><br>
-  <sub>Python · C · C++ · VHDL · SQL · MATLAB<br>Git · GitHub Actions · Docker · Jira<br>Linux (basic) · Embedded Systems</sub>
+
+- Python · C · C++ · VHDL
+- LabVIEW Core 1 & 2
+- TestStand · CANoe · CANalyzer
+- CAN/CAN-FD · UDS (ISO 14229)
+- HIL/Bench Test Setups
+- CAPL (learning)
+
 </td>
 <td>
-  🌐 <b>Languages</b><br>
-  <sub>Spanish (Native)<br>English (B2 Proficient — EF SET)<br>French (B1 — TCF)</sub>
+
+- Python (pandas, Tkinter, subprocess)
+- SQL · MATLAB · LaTeX
+- Git · GitHub Actions · Docker
+- Jira · Linux (basic)
+- AI-assisted testing (LLMs)
+- CI/CD pipelines
+
+</td>
+<td>
+
+- Oscilloscopes · Logic Analyzers
+- Multimeters · TRACE32 · iSystem
+- UART · I2C · SPI · LIN
+- STM32 · PIC · ESP32
+- Custom PCB design
+- Networking & CCTV
+
 </td>
 </tr>
 </table>
-
----
-
-## 👨‍💻 Sample Code
-
-```python
-# Automated KPI extractor from CANoe test logs
-# Parses ASC log files, computes Test Yield, FPY, Defect Density
-import pandas as pd
-import re
-from pathlib import Path
-
-def parse_canoe_log(filepath: str) -> pd.DataFrame:
-    """Extract signal data and test verdicts from CANoe ASC logs."""
-    pattern = re.compile(
-        r'(?P<timestamp>\d+\.\d+)\s+\d+\s+(?P<channel>\w+)\s+(?P<id>0x[0-9A-Fa-f]+)'
-        r'\s+(?P<dlc>\d)\s+(?P<data>[0-9A-Fa-f ]+)'
-    )
-    frames = []
-    for line in Path(filepath).read_text().splitlines():
-        if m := pattern.match(line):
-            frames.append(m.groupdict())
-    df = pd.DataFrame(frames)
-    df['timestamp'] = df['timestamp'].astype(float)
-    return df
-
-# Usage
-log = parse_canoe_log("test_run_20260415.asc")
-print(f"Frames captured: {len(log)} | Lost: {log['dlc'].astype(int).sum() - len(log)}")
-```
-
----
-
-## 📖 Currently Learning
-
-- 🔌 **CAPL scripting** for advanced CANoe automation
-- 🚗 **ADAS validation methodologies** (ISO 26262 awareness)
-- 🐳 **Docker & CI/CD pipelines** for test automation
-- 🤖 **AI-assisted testing** — integrating LLMs into test result analysis
 
 ---
 
 ## 💼 Experience
 
-### 🏢 Application Engineer — *Seica, Inc.*  
-`Oct 2022 – Jan 2026` | Querétaro, MX
+<p align="center">
+<img src="https://github.com/Thecesar85/Thecesar85/blob/main/assets/automotive.svg" width="440" alt="Automotive 8-bit" />
+</p>
 
-- Designed and executed automated test campaigns for automotive ECUs using LabVIEW & TestStand
-- Monitored CAN/CAN-FD communication between ECUs using CANoe & CANalyzer
-- Developed Python scripts for automated KPI reporting (Test Yield, Defect Density, First Pass Yield)
-- Performed root cause analysis using oscilloscopes, logic analyzers, and multimeters
-- Managed SQL databases & Git repositories for end-to-end traceability
-- Collaborated with international teams across Mexico, US, and Italy
+### 🏢 Application Engineer — Seica, Inc.
+`Oct 2022 – Jan 2026` · Querétaro, MX
 
-`🛠️ Python · LabVIEW · TestStand · CANoe · CANalyzer · SQL · Git`
+> Designed and executed automated test campaigns for automotive ECUs. Monitored CAN/CAN-FD communication, developed Python KPI reporting scripts, and performed root cause analysis with hardware debug tools. Managed SQL databases & Git repositories for full traceability. Collaborated with teams in Mexico, US, and Italy.
 
----
-
-### 🏢 Applications Engineer — *AB Test Solutions*  
-`Jul 2022 – Oct 2022` | Monterrey, MX
-
-- Implemented data acquisition systems and LabVIEW automation frameworks for automotive manufacturing
-
-`🛠️ LabVIEW · SQL · Data Acquisition`
+`Python` `LabVIEW` `TestStand` `CANoe` `CANalyzer` `SQL` `Git` `Supernova`
 
 ---
 
-### 🏢 Solution Junior Engineer — *Reckon Solution*  
-`Jan 2021 – Apr 2022` | Guadalajara, MX
+### 🏢 Applications Engineer — AB Test Solutions
+`Jul 2022 – Oct 2022` · Monterrey, MX
 
-- Programmed industrial control interfaces (LabVIEW / TestStand); test plans and SQL database management
+> Implemented data acquisition systems and LabVIEW automation frameworks for automotive manufacturing.
 
-`🛠️ LabVIEW · TestStand · SQL · HMI`
+`LabVIEW` `SQL` `Data Acquisition` `Electronic Design`
 
 ---
 
-### 🏢 FPGA Intern — *IM2NP*  
-`Mar 2020 – Jun 2020` | Salon-de-Provence, France
+### 🏢 Solution Junior Engineer — Reckon Solution
+`Jan 2021 – Apr 2022` · Guadalajara, MX
 
-- Designed FPGA (VHDL) particle detection hardware; low-level debugging and timing analysis
+> Programmed industrial control interfaces (LabVIEW/TestStand), created test plans, and maintained SQL databases and Git repositories.
 
-`🛠️ VHDL · FPGA · Xilinx`
+`LabVIEW` `TestStand` `SQL` `HMI` `Industrial Control`
+
+---
+
+### 🏢 FPGA Intern — IM2NP
+`Mar 2020 – Jun 2020` · Salon-de-Provence, France 🇫🇷
+
+> Designed FPGA (VHDL) particle detection hardware; low-level debugging and timing analysis in a research environment.
+
+`VHDL` `FPGA` `Xilinx` `Hardware Prototyping`
 
 ---
 
 ## 🔥 Projects
 
-### 🧪 Technical Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| **KPI Automation Suite** | Python scripts (pandas, matplotlib, Tkinter) to auto-extract & visualize test logs → PDF reports | `Python` `pandas` `Tkinter` |
-| **Injector Test System** | Full embedded system: STM32, custom PCB, C firmware, MOSFET power stage, optocoupler isolation | `STM32` `C` `PCB` |
-| **PIC ISP Programmer** | Firmware updates via In-System Programming for PIC16F84A / PIC18F4550 / PIC18F2550 | `PIC` `C` |
-
-### 🏗️ Open Source & GitHub Projects
-
 <table>
 <tr>
 <td width="50%">
 
-🏥 **[MediSync](https://github.com/Thecesar85/MediSync)**  
-*Unified Emergency Response & Hospital Coordination Platform*
+### 🧪 Technical
 
-🛡️ **[ao-bounty-control](https://github.com/Thecesar85/ao-bounty-control)**  
-*Private control room for bounty PRs, issues & payout readiness*
+**KPI Automation Suite**  
+Python scripts (pandas, matplotlib, Tkinter) to auto-extract & visualize test logs → PDF reports  
+`Python` `pandas` `Tkinter`
 
-💱 **[StellarBounty](https://github.com/Thecesar85/StellarBounty)** — Stellar/Soroban bounty platform
+**Injector Test System**  
+Full embedded system: STM32, custom PCB, C firmware, MOSFET power stage, optocoupler isolation  
+`STM32` `C` `PCB`
 
-⭐ **[StellarPulse](https://github.com/Thecesar85/StellarPulse)**  
-*Decentralized prediction market on Stellar/Soroban — bet XLM, earn PULSE*
+**PIC ISP Programmer**  
+Firmware updates via In-System Programming for PIC16F84A / PIC18F4550 / PIC18F2550  
+`PIC` `C`
+
+**CCTV Network Design**  
+Designed and installed a complete CCTV network; rehabilitated 16-year-old legacy intercom hardware  
+`Networking` `Hardware`
 
 </td>
 <td width="50%">
 
+### 🏗️ Open Source & Web3
+
+🏥 **[MediSync](https://github.com/Thecesar85/MediSync)**  
+Unified Emergency Response & Hospital Coordination Platform
+
+🛡️ **[ao-bounty-control](https://github.com/Thecesar85/ao-bounty-control)**  
+Control room for bounty PRs, issues & payout readiness
+
+💱 **[StellarBounty](https://github.com/Thecesar85/StellarBounty)**  
+Stellar/Soroban bounty platform
+
+⭐ **[StellarPulse](https://github.com/Thecesar85/StellarPulse)**  
+Decentralized prediction market on Stellar/Soroban
+
 💬 **[fluxer](https://github.com/Thecesar85/fluxer)**  
-*Open source IM & VoIP app built for friends, groups, and communities*
+Open source IM & VoIP for communities
 
 📊 **[mergework](https://github.com/Thecesar85/mergework)**  
-*Open-source work ledger — contributors & AI agents earn MRWK*
-
-🐛 **[bug-bounty-codex-743](https://github.com/Thecesar85/bug-bounty-codex-743)** — Bounty hunting toolkit
-
-⚒️ **[solfoundry](https://github.com/Thecesar85/solfoundry)**  
-*Autonomous AI Software Factory on Solana — multi-LLM review & reputation*
+Work ledger — contributors & AI agents earn MRWK
 
 </td>
 </tr>
 </table>
-
-<details>
-<summary>📦 More repos (click to expand)</summary>
-<br>
-
-- 📧 **[mautic](https://github.com/Thecesar85/mautic)** — Open Source Marketing Automation (7.x branch)
-- 🎬 **[MoneyPrinterTurbo](https://github.com/Thecesar85/MoneyPrinterTurbo)** — AI video generation
-- 📦 **[registry](https://github.com/Thecesar85/registry)** — Coder modules & templates registry
-- 💎 **[solidity](https://github.com/Thecesar85/solidity)** — Smart Contract Language
-- 👁️ **[zeroeye](https://github.com/Thecesar85/zeroeye)** — Trade risk monitor & diagnostics
-- 🏕️ **[TentOfTrials-bounty-67](https://github.com/Thecesar85/TentOfTrials-bounty-67)** — Trading & market platform
-- 🐉 **[Mudlet](https://github.com/Thecesar85/Mudlet)** — MUD client with Lua scripting
-
-</details>
 
 ---
 
 ## 🎓 Education
 
 | Degree | Institution | Year |
-|--------|-------------|------|
+|:------:|:----------:|:----:|
 | **Mechatronics Engineering** | Universidad Tecnológica de Tecámac, MX | 2022 |
-| **Lic. Automated Systems & Industrial Computing** | IUT d'Aix-Marseille, France | 2020 |
+| **Lic. Automated Systems & Industrial Computing** | IUT d'Aix-Marseille, France 🇫🇷 | 2020 |
 
 > 📝 Thesis: *Automated Control System for Electromechanical Assembly Lines*  
-> 🇫🇷 MEXPROTEC scholarship | Focus: Industrial Networks, Embedded Systems, Automation
+> 🇫🇷 MEXPROTEC scholarship · Focus: Industrial Networks, Embedded Systems, Automation
 
 ---
 
 ## 📜 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LabVIEW-Core%201%20%26%202-00B383?style=for-the-badge&logo=national-instruments&logoColor=white">
-  <img src="https://img.shields.io/badge/Google%20Cloud-Networking%20%26%20Security-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
-  <img src="https://img.shields.io/badge/EF%20SET-English%20B2%20Proficient-58CC02?style=for-the-badge&logo=duolingo&logoColor=white">
-  <img src="https://img.shields.io/badge/Cisco-Networking%20Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
-  <img src="https://img.shields.io/badge/Programming-Microcontrollers%20Cert-FF6C2C?style=for-the-badge&logo=arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/LabVIEW-Core_1_%26_2-00B383?style=for-the-badge&logo=nationalinstruments&logoColor=white">
+  <img src="https://img.shields.io/badge/Google_Cloud-Networking_%26_Security-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+  <img src="https://img.shields.io/badge/EF_SET-English_B2_Proficient-58CC02?style=for-the-badge&logo=duolingo&logoColor=white">
+  <img src="https://img.shields.io/badge/Cisco-Networking_Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
+  <img src="https://img.shields.io/badge/Microcontrollers-Programming_Cert-FF6C2C?style=for-the-badge&logo=arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/LP_SARI-Safety_Awareness-E74C3C?style=for-the-badge&logoColor=white">
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Thecesar85&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=3DDC84&currStreakLabel=58A6FF" width="460" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thecesar85&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3DDC84&text_color=8B949E" width="460" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thecesar85&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" width="340" alt="Top Languages">
 </p>
 
 ---
 
 ## 🏔️ Beyond Work
 
-- 🔌 **DIY Electronics**: Custom PCB design, firmware for IoT devices (ESP32, STM32)
-- 🤖 **Emerging Tech**: AI integration, blockchain fundamentals
-- 🚴 **Outdoors**: Hiking, cycling
+<table>
+<tr>
+<td align="center">🔌</td>
+<td><b>DIY Electronics</b> — Custom PCB design, firmware for IoT devices (ESP32, STM32), FPGA experiments</td>
+</tr>
+<tr>
+<td align="center">🤖</td>
+<td><b>AI & Emerging Tech</b> — LLM integration for test automation, blockchain fundamentals, smart contracts</td>
+</tr>
+<tr>
+<td align="center">🚴</td>
+<td><b>Outdoors</b> — Hiking, cycling, exploring Mexico's mountains</td>
+</tr>
+<tr>
+<td align="center">🛠️</td>
+<td><b>Infrastructure</b> — Network design, CCTV systems, IT support, legacy hardware rehabilitation</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-  <i>"Every challenge is an opportunity to create."</i>
+*"Every challenge is an opportunity to create."*
 
-  <br><br>
+<br>
 
-  <a href="mailto:augustosm85@gmail.com">📧 augustosm85@gmail.com</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/augusto-salazar-montes">💼 LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://github.com/Thecesar85/Thecesar85/blob/main/Resume_Augusto_Salazar.pdf">📄 Download CV</a>
+<a href="mailto:augustosm85@gmail.com">📧 augustosm85@gmail.com</a> &nbsp;·&nbsp;
+<a href="https://linkedin.com/in/augusto-salazar-montes">💼 LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://github.com/Thecesar85/Thecesar85/blob/main/Resume_Augusto_Salazar.pdf">📄 Download CV</a>
 
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Thecesar85&color=0A2942&style=flat-square" alt="Profile views">
+<br>
 
-  <sub>Last update: August 2026 · Querétaro, México</sub>
+<img src="https://komarev.com/ghpvc/?username=Thecesar85&color=58A6FF&style=flat-square" alt="Profile views">
+
+<sub>Last update: September 2026 · Querétaro, México</sub>
 
 </div>
