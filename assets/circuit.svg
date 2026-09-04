@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 24" width="480" height="240">
+  <rect x="0" y="0" width="48" height="24" fill="#1a4a2a"/>
+  <rect x="4" y="4" width="2" height="16" fill="#3ddc84"/>
+  <rect x="10" y="4" width="2" height="8" fill="#3ddc84"/>
+  <rect x="16" y="4" width="2" height="16" fill="#3ddc84"/>
+  <rect x="22" y="8" width="2" height="12" fill="#3ddc84"/>
+  <rect x="28" y="4" width="2" height="16" fill="#3ddc84"/>
+  <rect x="34" y="6" width="2" height="14" fill="#3ddc84"/>
+  <rect x="40" y="4" width="2" height="16" fill="#3ddc84"/>
+  <rect x="6" y="6" width="4" height="1" fill="#3ddc84"/><rect x="12" y="8" width="4" height="1" fill="#3ddc84"/>
+  <rect x="18" y="6" width="4" height="1" fill="#3ddc84"/><rect x="24" y="10" width="4" height="1" fill="#3ddc84"/>
+  <rect x="30" y="8" width="4" height="1" fill="#3ddc84"/><rect x="36" y="6" width="4" height="1" fill="#3ddc84"/>
+  <rect x="42" y="10" width="4" height="1" fill="#3ddc84"/>
+  <rect x="20" y="4" width="8" height="4" fill="#21262d" stroke="#30363d"/>
+  <rect x="21" y="5" width="2" height="2" fill="#58a6ff"/><rect x="25" y="5" width="2" height="2" fill="#58a6ff"/>
+  <rect x="20" y="9" width="1" height="2" fill="#f0c14b"/><rect x="27" y="9" width="1" height="2" fill="#f0c14b"/>
+  <text x="24" y="22" text-anchor="middle" fill="#3ddc84" font-size="2" font-family="monospace">PCB DESIGN &amp; DIY</text>
+</svg>
