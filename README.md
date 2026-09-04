@@ -1,29 +1,15 @@
-<div align="center">
-
-<b style="font-family: 'Fira Code', monospace; color: #58A6FF; font-size: 28px;">Augusto Salazar Montes</b>
-<br>
-<marquee behavior="scroll" direction="left" scrollamount="5" scrolldelay="50" style="font-family: 'Fira Code', monospace; color: #58A6FF; font-size: 20px;">
-  ICT Specialist &nbsp;│&nbsp; Mechatronics Engineer &nbsp;│&nbsp; Embedded Validation &nbsp;│&nbsp; Test Automation &nbsp;│&nbsp; Trilingual (ES/EN/FR)
-</marquee>
-
-<br>
-
-<a href="mailto:augustosm85@gmail.com"><img src="https://img.shields.io/badge/Email-augustosm85%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://linkedin.com/in/augusto-salazar-montes"><img src="https://img.shields.io/badge/LinkedIn-augusto--salazar--montes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/Thecesar85/Thecesar85/blob/main/Resume_Augusto_Salazar.pdf"><img src="https://img.shields.io/badge/Download_CV-PDF-4A90D9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Quer%C3%A9taro-M%C3%A9xico-2EA043?style=for-the-badge&logo=googlemaps&logoColor=white"></a>
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/Thecesar85/Thecesar85/main/assets/robot.svg" width="240" alt="8-bit Robot" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Spanish-Native-E74C3C?style=flat-square&labelColor=555"> 
-<img src="https://img.shields.io/badge/English-B2_Proficient-3776AB?style=flat-square&labelColor=555&logo=duolingo&logoColor=white"> 
-<img src="https://img.shields.io/badge/French-B1_TCF-002395?style=flat-square&labelColor=555"> 
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=1500&pause=3500&color=58A6FF&center=true&vCenter=true&width=600&lines=Augusto+Salazar+Montes" alt="Typing SVG" />
+  <br>
+  <sub style="font-family: 'Fira Code', monospace; color: #58A6FF; font-size: 16px;">
+    ICT Specialist &nbsp;│&nbsp; Mechatronics Engineer &nbsp;│&nbsp; Embedded Validation &nbsp;│&nbsp; Test Automation &nbsp;│&nbsp; Trilingual (ES/EN/FR)
+  </sub>
+  <br><br>
+  <a href="mailto:augustosm85@gmail.com"><img src="https://img.shields.io/badge/Email-augustosm85%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/augusto-salazar-montes"><img src="https://img.shields.io/badge/LinkedIn-augusto--salazar--montes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Thecesar85/Thecesar85/blob/main/Resume_Augusto_Salazar.pdf"><img src="https://img.shields.io/badge/Download_CV-PDF-4A90D9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Quer%C3%A9taro-M%C3%A9xico-2EA043?style=for-the-badge&logo=googlemaps&logoColor=white"></a>
+</p>
 
 ---
 
