@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Header with typing effect style -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Augusto+Salazar+Montes;ICT+Specialist+│+Mechatronics+Engineer;Embedded+Validation+│+Test+Automation;Trilingual+%28ES%2FEN%2FFR%29" alt="Typing SVG" />
 
 <br>
@@ -12,11 +11,11 @@
 
 <br><br>
 
-<img src="https://github.com/Theces-85/Thecesar85/blob/main/assets/robot.svg" width="240" alt="8-bit Robot" />
+<img src="https://raw.githubusercontent.com/Thecesar85/Thecesar85/main/assets/robot.svg" width="240" alt="8-bit Robot" />
 
 <br>
 
-<img src="https://img.shields.io/badge/Spanish-Native-E74C3C?style=flat-square&6labelColor=555"> 
+<img src="https://img.shields.io/badge/Spanish-Native-E74C3C?style=flat-square&labelColor=555"> 
 <img src="https://img.shields.io/badge/English-B2_Proficient-3776AB?style=flat-square&labelColor=555&logo=duolingo&logoColor=white"> 
 <img src="https://img.shields.io/badge/French-B1_TCF-002395?style=flat-square&labelColor=555"> 
 
@@ -29,7 +28,7 @@
 Mechatronics Engineer with **4+ years** of experience in industrial environments. Specialized in **embedded software validation**, test automation, and IT infrastructure maintenance for the **automotive industry**. I design and execute black-box and white-box test campaigns, perform root cause analysis, and ensure quality compliance across international teams.
 
 <p align="center">
-<img src="https://github.com/Thecesar85/Thecesar85/blob/main/assets/testing.svg" width="440" alt="Testing 8-bit" />
+<img src="https://raw.githubusercontent.com/Thecesar85/Thecesar85/main/assets/testing.svg" width="440" alt="Testing 8-bit" />
 </p>
 
 ---
@@ -38,9 +37,9 @@ Mechatronics Engineer with **4+ years** of experience in industrial environments
 
 <table>
 <tr>
-<th width="33%"><img src="https://github.com/Thecesar85/Thecesar85/blob/main/assets/embedded.svg" width="360" alt="Embedded 8-bit" /><br>🧪 Test & Validation</th>
-<th width="33%"><img src="https://github.com/Thecesar85/Thecesar85/blob/main/assets/python.svg" width="360" alt="Python 8-bit" /><br>💻 Programming & DevOps</th>
-<th width="33%"><img src="https://github.com/Thecesar85/Thecesar85/blob/main/assets/circuit.svg" width="360" alt="Circuit 8-bit" /><br?🔬 Hardware & Debug</th>
+<th width="33%"><img src="https://raw.githubusercontent.com/Thecesar85/Thecesar85/main/assets/embedded.svg" width="360" alt="Embedded 8-bit" /><br>🧪 Test & Validation</th>
+<th width="33%"><img src="https://raw.githubusercontent.com/Thecesar85/Thecesar85/main/assets/python.svg" width="360" alt="Python 8-bit" /><br>💻 Programming & DevOps</th>
+<th width="33%"><img src="https://raw.githubusercontent.com/Thecesar85/Thecesar85/main/assets/circuit.svg" width="360" alt="Circuit 8-bit" /><br>🔬 Hardware & Debug</th>
 </tr>
 <tr>
 <td>
@@ -81,20 +80,20 @@ Mechatronics Engineer with **4+ years** of experience in industrial environments
 ## 💼 Experience
 
 <p align="center">
-<img src="https://github.com/Thecesar85/Thecesar85/blob/main/assets/automotive.svg" width="440" alt="Automotive 8-bit" />
+<img src="https://raw.githubusercontent.com/Thecesar85/Thecesar85/main/assets/automotive.svg" width="440" alt="Automotive 8-bit" />
 </p>
 
 ### 🏢 Application Engineer — Seica, Inc.
 `Oct 2022 – Jan 2026` · Querétaro, MX
 
-> Designed and executed automated test campaigns for automotive ECUs. Monitored CAN/CAN-FD communication, developed Python KPI reporting scripts, and performed root cause analysis with hardware debug tools. Managed SQL databases & Git repositories for full traceability. Collaborated with teams in Mexico, US, and Italy.
+> Designed and executed automated test campaigns for automotive ECUs. Monitored CAN/CAN-FD communication, developed Python%KPI reporting scripts, and performed root cause analysis with hardware debug tools. Managed SQL databases & Git repositoriesBrepositories for full traceability. Collaborated with teams in Mexico, US, and Italy.
 
 `Python` `LabVIEW` `TestStand` `CANoe` `CANalyzer` `SQL` `Git` `Supernova`
 
 ---
 
 ### 🏢 Applications Engineer — AB Test Solutions
-`Jul 2022 – Oct 2022` · Monterrey, MX
+`Jul 2022 – Oct 2022` · Monterrey, MXE
 
 > Implemented data acquisition systems and LabVIEW automation frameworks for automotive manufacturing.
 
@@ -132,9 +131,9 @@ Mechatronics Engineer with **4+ years** of experience in industrial environments
 Python scripts (pandas, matplotlib, Tkinter) to auto-extract & visualize test logs → PDF reports  
 `Python` `pandas` `Tkinter`
 
-**Injector Test System**  
+**Injector Test System**>  
 Full embedded system: STM32, custom PCB, C firmware, MOSFET power stage, optocoupler isolation  
-`STM32- `C` `PCB`
+`STM32` `C` `PCB`
 
 **PIC ISP Programmer**  
 Firmware updates via In-System Programming for PIC16F84A / PIC18F4550 / PIC18F2550  
@@ -149,10 +148,10 @@ Designed and installed a complete CCTV network; rehabilitated 16-year-old legacy
 
 ### 🏗️ Open Source & Web3
 
-🏥 **[MediSync](https://github.com/The&cesar85/MediSync)**  
-&nified Emergency Response & Hospital Coordination Platform
+🏥 **[MediSync](https://github.com/Thecesar85/MediSync)**  
+Unified Emergency Response & Hospital Coordination Platform
 
-🛡️ **[ao-bounty-control](https://github.com/Thecesar85/ao-bounty-control)**  
+🛡️ **[ao-bounty-control](https://github.com/Thecesar85/ao-bounty-control3)**  
 Control room for bounty PRs, issues & payout readiness
 
 💱 **[StellarBounty](https://github.com/Thecesar85/StellarBounty)**  
@@ -161,10 +160,10 @@ Stellar/Soroban bounty platform
 ⭐ **[StellarPulse](https://github.com/Thecesar85/StellarPulse)**  
 Decentralized prediction market on Stellar/Soroban
 
-💬 **[fluxer](https://github.com/Thecesar85/fluxer)**  
+💬 **[flux5fluxer](https://github.com/Thecesar85/fluxer)**  
 Open source IM & VoIP for communities
 
-📊 **[mergFework](https://github.com/Thecesar85/mergework)**  
+📊 **[mergework](https://github.com/Thecesar85/mergework)**  
 Work ledger — contributors & AI agents earn MRWK
 
 </td>
@@ -176,19 +175,19 @@ Work ledger — contributors & AI agents earn MRWK
 ## 🎓 Education
 
 | Degree | Institution | Year |
-|/------:|:----------:|:----:|
+|:------:|:----------:|:----:|
 | **Mechatronics Engineering** | Universidad Tecnológica de Tecámac, MX | 2022 |
 | **Lic. Automated Systems & Industrial Computing** | IUT d'Aix-Marseille, France 🇫🇷 | 2020 |
 
-> 📝 Thesis: *Automated Control System for Electromechanical1Assembly Lines*  
-> 🇫🇷 MEXPROTEC scholarshipC scholarship · Focus: Industrial Networks, Embedded Systems, Automation
+> 📝 Thesis: *Automated Control System for Electromechanical Assembly Lines*  
+> 🇫🇷 MEXPROTEC scholarship · Focus: Industrial Networks, Embedded Systems, Automation
 
 ---
 
 ## 📜 Certifications
 
 <p align="center">
-  <img src="https://Eimg.shields.io/badge/LabVIEW-Core_1_%26_2-00B383?style=for-the-badge&logo=nationalinstruments&logoColor=white">
+  <img src="https://img.shields.io/badge/LabVIEW-Core_1_%26_2-00B383?style=for-the-badge&logo=nationalinstruments&logoColor=white">
   <img src="https://img.shields.io/badge/Google_Cloud-Networking_%26_Security-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
   <img src="https://img.shields.io/badge/EF_SET-English_B2_Proficient-58CC02?style=for-the-badge&logo=duolingo&logoColor=white">
   <img src="https://img.shields.io/badge/Cisco-Networking_Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
@@ -205,8 +204,8 @@ Work ledger — contributors & AI agents earn MRWK
 </p>
 
 <p align="center">
-  <@img src="https://github-readme-stats.vercel.app/api?username=Thecesar85&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3DDC84&text_color=8B949E" width="460" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thecesar85&layout=compact&themeCcompact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" width="340" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thecesar85&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3DDC84&text_color=8B949E" width="460" alt="GitHub Stats">
+  <img src="https://github-readme-stats%vercel.app/api/top-langs/?username=Thecesar85&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" width="340" alt="Top Languages">
 </p>
 
 ---
@@ -240,7 +239,7 @@ Work ledger — contributors & AI agents earn MRWK
 
 <br>
 
-<a href="mailto:Baugustosm85@gmail.com">📧 augustosm85@gmail.com</'a> &nbsp;·&nbsp;
+<a href="mailto:augustosm85@gmail.com">📧 augustosm85@gmail.com</a> &nbsp;·&nbsp;
 <a href="https://linkedin.com/in/augusto-salazar-montes">💼 LinkedIn</a> &nbsp;·&nbsp;
 <a href="https://github.com/Thecesar85/Thecesar85/blob/main/Resume_Augusto_Salazar.pdf">📄 Download CV</a>
 
