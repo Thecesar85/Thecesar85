@@ -2,7 +2,7 @@
 
 <b style="font-family: 'Fira Code', monospace; color: #58A6FF; font-size: 28px;">Augusto Salazar Montes</b>
 <br>
-<marquee behavior="scroll" direction="left" scrollamount="6" style="font-family: 'Fira Code', monospace; color: #58A6FF; font-size: 20px;">
+<marquee behavior="scroll" direction="left" scrollamount="5" scrolldelay="50" style="font-family: 'Fira Code', monospace; color: #58A6FF; font-size: 20px;">
   ICT Specialist &nbsp;│&nbsp; Mechatronics Engineer &nbsp;│&nbsp; Embedded Validation &nbsp;│&nbsp; Test Automation &nbsp;│&nbsp; Trilingual (ES/EN/FR)
 </marquee>
 
